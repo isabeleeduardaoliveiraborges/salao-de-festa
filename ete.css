@@ -12,7 +12,7 @@ header{
     align-items: center;
 }
 
-.cabecalho{
+.cabecalho {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -234,5 +234,10 @@ nav{
     background-color: #128C7E;
 }
 
+.gallery{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
 
 
