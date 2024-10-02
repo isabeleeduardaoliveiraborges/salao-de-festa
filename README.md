@@ -1,1 +1,1 @@
-https://isabeleeduardaoliveiraborges.github.io./salao-de-festa
+https://isabeleeduardaoliveiraborges.github.io/salao-de-festa
